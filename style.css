@@ -9,6 +9,7 @@ body{
 
 button{
     font-size: 18px;
+    margin: 20px;
 }
 #acertijo{
     display: flex;
